@@ -4,8 +4,6 @@
 
 Welcome to **Brave Cow Games**!
 
----
-
 ## Projects
 
 Currently, our projects are in the development phase. Stay tuned for exciting updates and announcements about our upcoming games!
